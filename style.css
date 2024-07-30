@@ -2,13 +2,19 @@
 body{
     background-color: #333;
     color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
 }
-
+h1{
+    text-align: center;
+    border: #fff dashed 2px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
 img.user {
-    width: 100px;
-    border-radius: 50px;
-    float: left;
-    margin-right: 10px;
+    width: 200px;
+    border-radius: 100px;
+    align-content: center;
 }
 img.logo{
     display: block;
@@ -25,10 +31,18 @@ p.username {
     display: flex;
     flex-wrap: wrap;
 }
+
 .image-item {
     background-color: #333;
     border-radius: 8px;
     padding: 10px;
     margin: 10px;
     text-align: center;
+}
+.icon-text {
+    display: block;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: #fff;
+    font-size: 16px;
 }
