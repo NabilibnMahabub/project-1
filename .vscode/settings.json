@@ -1,0 +1,13 @@
+{
+  "editor.fontSize": 14,
+  "editor.cursorStyle": "line",
+  "window.commandCenter": true,
+  "window.confirmSaveUntitledWorkspace": true,
+  "workbench.activityBar.location": "default",
+  "workbench.iconTheme": "vs-seti",
+  "workbench.sideBar.location": "left",
+  "window.density.editorTabHeight": "default",
+  "window.closeWhenEmpty": false,
+  "window.autoDetectColorScheme": false,
+  "workbench.commandPalette.experimental.suggestCommands": true
+}
